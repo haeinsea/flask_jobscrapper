@@ -16,3 +16,4 @@
 
 ## URL Click
 https://flaskjob-scrappertest.haeinsea.repl.co/
+### 우회하여 스크래핑하기 때문에 로딩 시간이 길다
