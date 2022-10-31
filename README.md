@@ -1,6 +1,8 @@
 # flask_jobscrapper
 
-## flask, selenium , BeautifulSoup 을 활용
+## flask, selenium , BeautifulSoup 을 활용하여
+## job scrapping 페이지 만들기
+
 ### 보안상 막혀있는 페이지 스크래핑을 위하여 Cromedriver 설정 및 우회하여 스크래핑
 
 ## 화면
